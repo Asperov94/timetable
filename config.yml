@@ -1,0 +1,6 @@
+mti:
+  login: login
+  password: pass
+telegram:
+  bot: botXXXX:XXXX
+  id_group: '-XXXX'
